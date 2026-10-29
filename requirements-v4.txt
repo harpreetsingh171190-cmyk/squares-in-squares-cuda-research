@@ -1,0 +1,5 @@
+-r requirements-ml.txt
+# Optional packages, install as needed:
+# mlflow>=2.10,<4
+# shap>=0.45,<1
+# torch: use official CUDA-compatible installer

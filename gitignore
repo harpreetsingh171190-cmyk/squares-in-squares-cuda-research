@@ -1,0 +1,23 @@
+# Original dataset is supplied separately and must not be committed
+inputs/*
+!inputs/README.md
+!inputs/experiment_schema.csv
+
+# Generated outputs
+artifacts/
+reports/
+submission.csv
+validation.json
+roundtrip_validation.json
+float64_roundtrip.csv
+*.sqlite
+*.pt
+
+# Python / Jupyter / OS
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

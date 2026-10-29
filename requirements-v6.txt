@@ -1,0 +1,2 @@
+-r requirements-v5.txt
+# Optional: install compatible PyTorch CUDA build, SHAP, MLflow separately

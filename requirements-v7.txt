@@ -1,0 +1,2 @@
+-r requirements-v6.txt
+# V7 adds no new third-party dependencies (NumPy, pandas, standard library only).

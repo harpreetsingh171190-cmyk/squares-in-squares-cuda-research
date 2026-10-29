@@ -1,0 +1,5 @@
+-r requirements.txt
+scikit-learn>=1.4,<2
+optuna>=3.6,<5
+streamlit>=1.35,<2
+# Optional deep learning and CUDA benchmark: install compatible torch from https://pytorch.org/get-started/locally/
